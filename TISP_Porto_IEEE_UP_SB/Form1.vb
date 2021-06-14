@@ -31,7 +31,7 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        Nomes = {"Nome aleatorio", "Boia (de piscina)", "Colete", "Cofre", "Bola (de futebol)", "Cogumelo", "Girafa", "Chave", "Tesoura", "Pincel", "Caracol", "Garfo", "Calendário", "Iglu", "Garrafa", "Sofá", "Elevador", "Cruzeta (de roupa)", "Sapato", "Borracha", "Gato", "Baliza", "Luva", "Correio", "Autocarro", "Moeda", "Copo", "Rato (de computador)", "Gravata"}
+        Nomes = {"Boia (de piscina)", "Colete", "Cofre", "Bola (de futebol)", "Cogumelo", "Girafa", "Chave", "Tesoura", "Pincel", "Caracol", "Garfo", "Calendário", "Iglu", "Garrafa", "Sofá", "Elevador", "Cruzeta (de roupa)", "Sapato", "Borracha", "Gato", "Baliza", "Luva", "Correio", "Autocarro", "Moeda", "Copo", "Rato (de computador)", "Gravata"}
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
